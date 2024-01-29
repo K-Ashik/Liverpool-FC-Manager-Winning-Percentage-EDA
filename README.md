@@ -6,6 +6,7 @@ Welcome to the Exploratory Data Analysis (EDA) notebook for Liverpool FC manager
 <font face="Times New Roman">Liverpool FC</font>, one of the most storied football clubs in the world, has had a rich history of managers who have led the team through triumphs and challenges. From legendary figures to modern tacticians, each manager has left their mark on the club's legacy.
 
 Join us as we delve into the data to uncover insights about <font face="Times New Roman">Liverpool FC managers</font>, their winning percentages, titles won, and more. Let's explore the fascinating history of <font face="Times New Roman">Liverpool FC</font> through the lens of data analysis!
+One standout finding from the analysis was the profound influence of Jürgen Klopp, whose tenure as Liverpool FC's manager has been nothing short of remarkable. 🌍🔴 From historic UEFA Champions League triumphs to the long-awaited Premier League title, Klopp's achievements have solidified his legacy in football history. 🏅🔥
 <div style="text-align: right"><img src="https://www.footyrenders.com/render/jurgen-klopp-18.png" alt="Jürgen Klopp" width="300"></div>
 
 
